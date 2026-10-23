@@ -1,3 +1,3 @@
 hi i am murtaj
 file added
-this is fecth
+this is fetch
